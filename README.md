@@ -11,6 +11,7 @@ This repository will hold any code, notebooks, or other related coursework for I
 
 ### Content
 
+- [lab 1: set up Jupyterlab and load data from s3](https://github.com/dellorkf/KDR-IA-340-2025/blob/main/lab1.ipynb)
 - Jupyter notebooks
 - Python Scripts
 - Lab Submissions
